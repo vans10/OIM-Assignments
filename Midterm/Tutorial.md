@@ -44,4 +44,4 @@ SQLAlchemy bridges Python and databases —
 it helps data scientists query structured data without switching tools.
 By combining it with pandas and visualization, you can create a complete data workflow inside one environment.
 
-## Run the notebook, explore, and modify the queries to test your own ideas.
+### Run the notebook, explore, and modify the queries to test your own ideas.
